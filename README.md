@@ -3,15 +3,22 @@ Removing outliers by graphic inspection is largely used when treating length-wei
 
 ### Use of the App
 
-### Citation
+The app has only two requirements in order to properly function:
+
+1. The upload archive should be an **.csv** with **","** as separator.
+1. It should contain the logarithmized length and weight in columns named **LogL** and **LogW** respectively.
+
 
 ### Use offline
 
 ### Contact us
 
+Please, in case of any question create an issue on github or email leopinto.ca@gmail.com
+
 ### Authors
+
 
 ### References
 Cook, R. D., & Weisberg, S. (1982). *Residuals and influence in regression.* New York: Chapman and Hall.
 
-Parker, J., Fritts, M. W., & DeBoer, J. A. (2018). Length-weight relationships for small Midwestern US fishes. *Journal of Applied Ichthyology*, 34(4), 1081-1083.
+Parker, J., Fritts, M. W., & DeBoer, J. A. (2018). Length-weight relationships for small Midwestern US fishes. *Journal of Applied Ichthyology*, 34(4), 1081-1083. https://doi.org/10.1111/jai.13721
